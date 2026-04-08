@@ -7,9 +7,12 @@
 
 </div>
 
+<div align="center">
 ╔═══════════════════════════════════════════════════════════════════╗
+
 ![Banner](https://github.com/OSAR-Community-Portal/OSAR-Community-Portal/blob/main/assets/banner.png)
 ╚═══════════════════════════════════════════════════════════════════╝
+</div>
 
 <div align="center">
 
