@@ -16,7 +16,7 @@
 
 <div align="center">
 
-# 🌐 **OSAR Community Portal** 🌐  
+# 🌐 **OSAR Portal** 🌐  
 > **Survive All. Ascend Always.**  
 *Open Sovereign Autonomous Realm — Omni-Survival Ark of Resilience*
 
